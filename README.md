@@ -1,6 +1,6 @@
 ### olá 👋
 
-Me chamo Vitor,
+Eu me chamo Vitor,
 
 - 🎓 Estou estudando para me tornar um programador.
 - 🌱 Estou aprendendo linguagem C, CSS, Html, Python e JavaScript
